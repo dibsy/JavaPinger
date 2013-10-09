@@ -1,0 +1,7 @@
+Pinger 1.2 C0d3d by dibyendu
+Host google.com is up
+Host kiit.ac.in is up
+Host php.net is up
+Host yahoo.com is up
+Host exam.in is unreachable
+Host ccode.co.in is unreachable
